@@ -1,0 +1,10 @@
+REVÍZIE MOSTOVÝCH ŽERIAVOV – PWA PRE IPHONE
+1. Nahrajte VŠETKY súbory z tohto balíka na HTTPS webhosting do rovnakého adresára.
+2. Na iPhone otvorte adresu index.html v Safari.
+3. Safari > Zdieľať > Pridať na plochu.
+4. Spustite aplikáciu z ikony. Po prvom načítaní online bude základ aplikácie dostupný aj offline.
+5. Záznamy, fotografie a podpis zostávajú iba v lokálnom úložisku tejto inštalácie.
+6. Po každej kontrole vytvorte JSON zálohu (Záver a export > Zálohovať JSON), uložte ju do Súborov na iPhone.
+7. PDF vytvoríte tlačovým dialógom iOS (Záver a export > Tlačiť / uložiť PDF).
+POZOR: Bez nahratia na HTTPS server nejde PWA plnohodnotne nainštalovať a používať offline.
+POZOR: Zálohy v aplikácii obsahujú aj fotografie a podpis. Chráňte ich pred neoprávneným prístupom.
